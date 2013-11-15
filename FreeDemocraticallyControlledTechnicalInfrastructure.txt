@@ -1,0 +1,19 @@
+5 Free, democratically controlled technical infrastructure
+
+In our modern information and communication society, it is of supreme importance that all citizens have complete control over the processing of their information and their communication at any time, should they wish to do so. This freedom for all citizens is intended to prevent the concentration of power over systems and data in the hands of individuals. The aim is to distribute power as broadly as possible over all citizens and thus secure their freedom and their privacy.
+
+5.1 Open standards
+
+Free and continual access for users to data of all kinds with systems of their choice can only be ensured if this data is available in a format that corresponds to open standards. The situation is similar for the combination of different technical systems. Given the same functionality, they are only exchangeable if the interface conforms to open standards. Therefore we support the consistent use and spread of open standards. This decreases dependence on individual manufacturers and enables free competition between technical solutions. An open standard is a protocol or format which meets the following criteria:
+
+• All participants have full, equal and public access and can evaluate and use it equally.
+• There are no components or extensions that depend on formats or protocols which do not conform to this definition.
+• There are no legal or technical clauses that restrict use by any party or business model.
+• Development is independent of any one manufacturer, in a process that is open to equal participation by competitors or third parties.
+• Different complete implementations by different manufacturers are available, or it is a completely free implementation.
+
+5.2 Free software
+
+We support the promotion of software that can be used, analyzed, disseminated and changed by everyone, without restrictions. This so-called free software guarantees users the basic freedom necessary to take control of their own technical systems and to develop them collectively and democratically, if need be. This provides a significant contribution to strengthening the autonomy and privacy of all users. Particularly educational insti- tutions and the entire public administration must work towards switching their entire technical infrastructure to free software step by step, so as to reduce public expenditures and dependence on individual manufacturers in the long run.
+
+

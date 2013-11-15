@@ -1,0 +1,42 @@
+6 Participation in digital life
+
+The shift towards a digital society constitutes a significant leap in development. It sub- stantially affects our social life, political processes and economic activities. Free com- munication is a catalyst for the advancement of society, and new digital technologies uncover previously unknown potentials. The free flow of information creates responsible citizens who are able to effectively protect their freedom against totalitarian tendencies. Free networking makes it possible to easily bring together supply and demand of all sorts. Modern society is hard to imagine without digital communication. The state’s actions should be geared towards securing and promoting it.
+
+6.1 Access to digital communication
+
+Communication through digital networks, such as the Internet, plays an increasingly important role. Without the opportunity to participate, real freedom of speech or free personal development are no longer possible.
+
+Access to digital communication enables full participation in society, free publication, access to public information as well as education and cultural and economic activities on- line. This access must never be inhibited - neither temporarily nor permanently, neither in part nor in its entirety.
+
+Instead, it must be guaranteed that each member of society has the opportunity to obtain adequate access to digital communication. Adequate quality and speeds for data transmission must be ensured, even in rural areas, to give people access to the most common features. No town or village may be excluded from fully participating in digital life. This goes for landline and mobile connections. Therefore, the available frequencies must be accessible to a broad and democratic civil user base. When reserving and as- signing frequency ranges, the social benefit from free use and access to all stakeholders must have precedence over financial interests.
+
+In order to eliminate economic obstacles that limit the access to digital communication, each member of society must have the statutory right to participate. The social safety nets must enable those who lack the financial means to create the required technical environment to purchase and operate the necessary technology.
+
+6.2 Possible uses of digital communication
+
+Digital society communicates through the Internet and numerous connected subnet- works, which are operated by a multitude of providers. They form a virtual public sphe- re, access to which must be equally accessible to everyone. Providers’ control over the virtual public sphere must not be abused to impose targeted restrictions upon individual participants. Targeted blocking or bandwidth restrictions would impose inacceptable re- strictions on both providers of a service and their customers. Only if every user and every service offered are treated equally will everyone be able to use the Internet to the fullest extent. Discrimination against individuals would promote the creation of monopolies, restrict the Internet’s innovative potential and lead to restrictions of free speech.
+
+Government regulation is necessary to maintain a free Internet for all and ensure neutrality and equal treatment of all users by Internet service providers. To secure the operation of individual services which place high demands on network capacity this Internet neutrality may only be broken if a further extension of capacities is no longer possible.
+
+The expansion and modernization of networks must be ensured for the future. It may not be endangered through monopolization of communication channels. In order to promote permanent competition, and thereby stimulate investments and innovation, no new infrastructure monopolies may be granted and existing ones may no longer be upheld. We must instead strive for a high degree of decentralization, especially by promoting non-commercial projects that follow this principle.
+
+The state must guarantee free and equal access to the public part of the Internet and protect it against corporate interests, but also against political interference. Under no circumstances may there be any government coercion to filter or manipulate the transferred data. Consistent equal treatment of all data in neutral networks can only be guaranteed if the data is transmitted without monitoring of contents and regardless of information about senders or recipients. The state must not be allowed to require operators of Internet subnetworks to analyze transmitted data via deep packet inspection (DPI) and operators must not be allowed to use this method.
+
+The fight against Internet crime must begin where it is most effective: With senders and recipients of non-permissible data. Fighting crime is the duty of government authorities, who hold the government monopoly on violence for this purpose. It is not the task of access providers and network operators to proceed against crime in the virtual public sphere of the Internet. They must not be turned into private investigative authorities, granted arbitrary powers of defense, or even serve as correctional authorities. These providers are responsible for ensuring proper, free operation of the Internet and for providing access to all members of society, but not for monitoring user behavior. They must not be made responsible or liable for the criminal activities of their customers.
+
+6.3 Learning how to use digital technology
+
+The Internet and other digital mediums are leading to increasingly greater social chan- ges. They create new opportunities for self-fulfillment, but also create new chances and 
+risks. A modern society must make use of these developments by accompanying them scientifically and sharing acquired mediums skills with all of its members. All people should be able to profit from new innovations and to protect themselves against dangers by using mediums competently and critically.
+
+In order to impart media skills, curriculums and technical equipment of schools must always be up to date. Critical use of modern mediums, efficient use and creative design must be a fixed part in all public school curriculums. Not just schools, but also parents play an important part here. In the complex world of media, parents must receive the necessary help to keep up with developments. To facilitate their role as educators, they must learn about the world their children grow up in, the possibilities and the dangers.
+
+No one must be left out of this rapid development. Older people must also be given to opportunity to take part in digital public life, to the extent they wish to do so. Older people must also be offered various kinds of training so they can acquire the necessary media skills to partake in social life. The special needs of senior citizens must be taken into account and proper accessibility must be assured in general. They must be supported in all elementary areas of media skills. Targeted government programs are also necessary.
+
+6.4 Digital society worldwide
+
+Free communication through digital networks allows our society to reinforce classic free- doms such as freedom of speech and free personal development. It creates informed citizens and strengthens democratic discourse, while new sectors are added to the econo- my and contribute to the wealth of society. Therefore, efforts towards the establishment of free communication networks in other countries must also be welcomed and supported. They enable more democratic forms of government around the world, more informed and tolerant societies and, consequently, more stable structures. The establishment of free communication networks must become a part of development aid all around the world, wherever feasible.
+
+Free communication networks around the world have time and again been threatened by censorship. These attempts are usually directed against the country’s own population and against the freedoms of its own citizens. Under no circumstances must Massachusetts support censorship in other countries. The technical prerequisites for censorship must not be created at home or tolerated abroad. Initiatives - political or technical in nature - for undermining filtering systems must be supported to the extent that foreign relations permit.
+
+
